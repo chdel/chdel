@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Bio](/Bio.gif)
+![Bio](https://github.com/imagrav/imagrav/raw/master/bio.gif)
